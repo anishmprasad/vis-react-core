@@ -1,0 +1,23 @@
+{
+  "name": "vis-react-core",
+  "version": "1.0.0",
+  "description": "vis-react core library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishmprasad/vis-react-core.git"
+  },
+  "keywords": [
+    "vis-react",
+    "vis"
+  ],
+  "author": "anish.m.prasad@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishmprasad/vis-react-core/issues"
+  },
+  "homepage": "https://github.com/anishmprasad/vis-react-core#readme"
+}
