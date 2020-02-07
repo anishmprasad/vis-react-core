@@ -1,5 +1,5 @@
 # vis-react-core
-vis-react core library 
+core library for vis-react
 
 # Licence
 MIT
