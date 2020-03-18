@@ -1,2 +1,3 @@
 # vis-react-core
-vis-react core library 
+
+vis-react core library
